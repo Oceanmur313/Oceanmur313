@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Oceanmur313
-- 👀 I’m interested in PHP Backend Programming
+- 👋 Hi, I’m Murad Sadikhov
+- 👀 I’m interested in PHP Backend Programming.
 - 🌱 I’m currently learning Laravel Framework
 - 💞️ I’m looking to collaborate on the projects in related field
 - 📫 How to reach me  m_sadikhov@yahoo.com
